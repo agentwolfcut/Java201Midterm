@@ -12,7 +12,7 @@
 3. เข้า github classroom เลือกชื่อเรา กด link  รับเข้ามา repo ของตัวเอง
 4. พอเข้า repo ก็ copy link clone ลงเครื่อง โดยการเปิด cmd ```$git clone https://github.com/NewGame0/Android_HelloWorld.git```
 5. cd เข้าไฟล์ที่โหลดมา แล้วพิมพ์คำสั่ง ```code .``` เพื่อเปิด vscode
-
+# save file ก่อน test
 <h3>ขณะทำข้อสอบ</h3>
 
 *อย่าลืมเช็ค  path
